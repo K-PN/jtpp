@@ -124,6 +124,9 @@ header{
     margin: auto;
     margin-bottom: 50px;
 }
+.service-box p{
+    color: white;
+}
 .service-box span{
     color: white;
 }
